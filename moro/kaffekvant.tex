@@ -1,0 +1,71 @@
+\documentclass[12pt]{article} 
+\usepackage[utf8]{inputenc}
+\usepackage{times}			% Default times font style
+\usepackage[T1]{fontenc} 	% Font encoding
+\usepackage[fleqn]{amsmath} 		% Math package
+\usepackage{amssymb} 		% Math symbols package
+\usepackage{mathtools} 		% Adds the declare paired 
+\usepackage{simplewick}
+
+\usepackage{hyperref}
+\usepackage[letterpaper, margin=1in]{geometry}
+
+% colored box
+\usepackage[most]{tcolorbox}
+\usepackage{parskip}
+
+\newcommand{\la}{\langle}
+\newcommand{\ra}{\rangle}
+\newcommand{\vm}[1]{\begin{vmatrix}#1\end{vmatrix}}
+
+% Start custom \abs \norm 
+\DeclarePairedDelimiter\abs{\lvert}{\rvert}%
+\DeclarePairedDelimiter\norm{\lVert}{\rVert}%
+
+% Short italic command
+\newcommand{\ita}[1]{\textit{#1}}
+
+% Math commands
+\newcommand{\eq}[1]{{\begin{align*}#1\end{align*}}}
+\newcommand{\ma}[1]{$#1$}
+\newcommand{\equ}[1]{{\begin{align}#1\end{align}}}
+\newcommand{\mat}[1]{\begin{matrix}#1\end{matrix}}
+\renewcommand\vec[1]{\boldsymbol{\mathbf{#1}}} % Bold vectors instead of arrow 
+\newcommand{\OP}[1]{\mathbf{\widehat{#1}}}
+\newcommand{\op}[1]{\hat{#1}}
+\newcommand{\unit}[1]{\mathbf{\hat{#1}}}
+\newcommand{\da}{\dagger}
+
+\title{}
+\begin{document}
+\section{Teori}
+\label{sec:teori}
+Anta en tilstand
+\begin{align*}
+	|\psi \ra = c_0 |0\ra + c_1 |1\ra
+\end{align*}
+som er i en superposisjon mellom tilstandene \textit{det finnes kaffe} 
+og \textit{det finnes ikke kaffe} (henholdsvis 1 og 0).
+Sannsynligheten for tilstand 0 er gitt ved $|c_0|^2$, og tilsvarende for 1.
+Den totale sannsynligheten er $|c_0|^2 + |c_1|^2 = 1$.
+Koeffisientene $c_i$ er her komplekse, 
+periodiske  (og sannsynligvis kompliserte) funksjoner,
+avhengige av tid.
+
+Vi definerer nå to lineære operatorer
+\footnote{Man kan også definere en operator $b$ som er slik at 
+$b|\psi\ra \ = c_0|0\ra + \delta|1\ra $, der $\delta\rightarrow 0$. 
+En slik operator kalles en \textit{Brox-operator}.}
+\begin{align*}
+	a^\da |\psi\ra
+	&= |1\ra&
+	a |\psi\ra
+	&= |0\ra
+\end{align*}
+
+Vi ser nå på Hamilton-operatoren
+\begin{align}
+    \op H |\psi\ra = i\bar{k} \frac{\partial}{\partial t} |\psi\ra
+\end{align}
+der $\bar{k}$ er en konstant (kalt «kbar»\footnote{Også kjent som «kaffebar».}).
+\end{document}

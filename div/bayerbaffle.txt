@@ -1,0 +1,32 @@
+if(**Do you want bayer or baffle?**) {
+  if(Is the door closed?){
+    if(Is it outside opening hours?){
+      "Actually, I'm not sure!";
+      when_is_it_open:
+      "When is it open?";
+    }
+    else{
+      come_in_then:
+      Come in, then!;
+      goto bayer_plus_baffle
+    }
+  }
+  else{
+    goto come_in_then
+  }
+}
+else{
+  Come back later!;
+  goto when_is_it_open
+}
+
+**Opening Hours**
+`Mon 10:00–16:00
+Tue 10:00–16:00
+Wed 10:00–16:00
+Thu 10:00–16:00
+Fri 10:00–16:00
+Fri 18:04–02:00`;
+
+bayer_plus_baffle:
+**Bayer + baffle = RF**;

@@ -1,0 +1,49 @@
+Sted/tid: RF-kjelleren/2015-04-20
+Folk som ikke er her: Sleisje, Neikopp, Sune
+/* Jakob kom kl. 17.33 */
+/* Eirik kom kl. 17.36 */
+
+Dagsorden: ja
+
+Grunnen til at vi har fagmøte nå er at Magnus har vært for flink.
+Magnus har lovet at alle arrangementene til høsten 
+  ikke skal være etter påskeferien.
+/* Oda var ikke på hyttetur i London. */
+
+1. Allokere ressurser
+  1.1 MathsJam 21/4 kl. 20
+    - To funker: Magnus, Pål.
+    
+  1.2 REAL-frokost Ola Nilsson 23/4
+    - Cecilie ditcher :'(
+    - Fire pre: Alex, Lars Christian, Svein-Erik, Oda.
+    - To post: Pål, Magnus.
+
+  1.3 PumP med Mats Carlsson og Viggo Hansteen 30/4
+    - To funker: Rune, Pål.
+    /* De skal snakke om (u-)været på Sola. */
+
+  1.4 Masterpub 7/5
+    - To funker: Lars Christian, Oda.
+
+  1.5 REAL-frokost m/Steven Ray Wilson 21/5
+    - Fire pre: Cecilie, Oda, Alexander, Lars Christian, Svein-Erik.
+    - To post: Rune, Pål.
+
+  1.6 Pump m/Are 28/5
+    - To funker: Rune, Eirik.
+
+  1.7 REAL-frokost m/Sunniva Rosa 1/6
+    - Fire pre: Cecilie, Alex, Lars Christian, Svein-Erik, 
+    - To post: Pål, Rune.
+    /* Cecilie klager på at møtet går treigt, */
+    /* men med én gang hun får sjansen til å snakke svada (om seg selv), */
+    /* så tar hun den. */
+
+2. Eventuelt
+  2.1 Matnatnattmat
+    - Når skal det være? Første uka i juni.
+    - Hvor lenge, hvor mange dager? Onsdag og torsdag.
+    - Når skal maten serveres? Ni.
+    - Matematisk-naturvitenskapelignattmatvakter? Cecilie*2, Oda (onsdag),
+      Magnus (onsdag), Rune (torsdag), Lars Christian (torsdag).

@@ -1,0 +1,37 @@
+Kate        K
+Hilde       K
+Pål         $
+Eigil       K
+Magnus      K
+Tale        K
+Sebastian   K   
+Jakob       K
+Kristian    K
+Jonathan    $
+Sivert      K
+Martin      K
+Inge        $
+Tord Erik   K
+Ingar       K
+Simen       K
+Thea        K
+Anders      K
+Lars Magnus K
+Hanne       K
+Ole Ivar    K
+Garcia      K
+Solveig     $
+Andreas     K
+Henrik      $
+Julie       K
+Dani        K
+Silje       $
+Aila        K
+Idun        K
+Sondre      K
+Heidi B     $
+Vilde       $
+Alex        K
+
+Kontant = $
+Kort    = K
